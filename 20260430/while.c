@@ -45,8 +45,5 @@ void main() {
 			default :
 				printf("연산자를 잘못 입력 했습니다.\n");
 		}
-
-
-
 	}
 }
